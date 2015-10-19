@@ -1,0 +1,16 @@
+Hotel Booking
+
+List hotels
+check in
+vacate room
+Occupancy report
+Revenue report
+
+quit
+Hotel Chain
+Hotel
+Rooms
+Person
+
+Capacity
+Vacancies
